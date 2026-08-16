@@ -43,14 +43,6 @@ Built as a practical example of full-stack product engineering, workflow design,
 
 → [View CreatorOps](https://github.com/bryan0578/creatorops)
 
-### Cinema Vault
-
-A full-stack application for managing a personal movie and television collection, with catalog metadata, collection management, wishlists, watch availability, and responsive interfaces.
-
-Built with modern TypeScript application architecture and PostgreSQL-backed data management.
-
-→ [View Cinema Vault](https://github.com/bryan0578/cinema-vault)
-
 ### OpenUI5 Project Operations
 
 An enterprise project-operations application demonstrating UI5 architecture, responsive Fiori-style interfaces, XML views, routing, model binding, reusable components, filtering, and semantic status patterns.
